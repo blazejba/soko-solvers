@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/ai_solver.dir/src/ai_solver.cpp.o  -o ai_solver -rdynamic 

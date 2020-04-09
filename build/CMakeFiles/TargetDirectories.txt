@@ -1,0 +1,3 @@
+/home/student/Desktop/AI_solver_improved/build/CMakeFiles/edit_cache.dir
+/home/student/Desktop/AI_solver_improved/build/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/AI_solver_improved/build/CMakeFiles/ai_solver.dir

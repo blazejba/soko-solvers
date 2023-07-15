@@ -1,0 +1,17 @@
+L
+D
+RP
+DP
+RP
+UP
+R
+DP
+L
+D
+LP
+-
+
+map size: 6 x 6
+steps in total: 11
+execution time: 0 m 0 s 5 ms
+states visited: 111

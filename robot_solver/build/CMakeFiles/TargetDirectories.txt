@@ -1,3 +1,0 @@
-/home/student/Desktop/AI_solver_improved/robot_solver/build/CMakeFiles/edit_cache.dir
-/home/student/Desktop/AI_solver_improved/robot_solver/build/CMakeFiles/rebuild_cache.dir
-/home/student/Desktop/AI_solver_improved/robot_solver/build/CMakeFiles/robot_solver.dir

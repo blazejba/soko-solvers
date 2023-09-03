@@ -4,10 +4,8 @@ This folder contains 60 maps for the Sokoban game. The maps have been extracted 
 ```
 level, length, (size_x, size_y)
 map tiles
-...
-```
 
-```
+
 1, 50, (22, 11)
     XXXXX             
     X   X             

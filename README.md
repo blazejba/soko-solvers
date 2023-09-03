@@ -1,5 +1,6 @@
-# SokoSolver: Sokoban game solver using different tree search techniques
+# SokoSolver
+Sokoban game solver using different tree search techniques
 
 ## C++
-...
+Dijkstra BFS
 
